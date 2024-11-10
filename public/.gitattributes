@@ -1,2 +1,0 @@
-videos/Video2.mp4 filter=lfs diff=lfs merge=lfs -text
-videos/Bandinak.mp4 filter=lfs diff=lfs merge=lfs -text
