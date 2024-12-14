@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+I really really promis I will start writing. At some point.
+
+<UNDER CONSTRUCTION>
