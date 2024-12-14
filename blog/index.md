@@ -5,6 +5,6 @@
 layout: home
 ---
 
-I really really promis I will start writing. At some point.
+I really really promise I will start writing. At some point.
 
 <UNDER CONSTRUCTION>
